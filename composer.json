@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twilio/sdk": "^6.44",
+        "guzzlehttp/guzzle": "^7.5",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "nesk/puphpeteer": "^2.0"
+    }
+}
